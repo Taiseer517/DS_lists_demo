@@ -9,3 +9,7 @@ Scikit-learn
 -Description
 -Example code:
 
+Pandas
+-Not for actual Pandas
+-Lets you see numbers and stuff
+-Name is cute
